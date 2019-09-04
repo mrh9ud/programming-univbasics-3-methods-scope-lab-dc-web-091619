@@ -14,4 +14,5 @@ def link
   puts "It's Dangerous To Go Alone!"
 end
 
-def any_phrase
+def any_phrase(phrase)
+  
